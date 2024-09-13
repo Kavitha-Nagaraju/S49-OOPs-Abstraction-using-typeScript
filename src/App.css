@@ -1,0 +1,38 @@
+.App{
+  text-align: center;
+}
+.navigation{
+  padding: 10px;
+}
+#nav{
+  background-color: chartreuse;
+  color: blue;
+  border: 5px solid red;
+  border-radius: 30px;
+}
+img{
+  display: inline-block;
+  border: 5px outset green;
+  border-radius: 10px;
+}
+p{
+  display:inline-block;
+  width:800px;
+  text-align: justify;
+  overflow: hidden;
+}
+
+.div1{
+  border: 5px solid black;
+  display: inline-block;
+  width:90%;
+  margin:60px;
+  height:300px;
+
+
+}
+p:hover{
+  background-color: blue;
+  color: darksalmon;
+}
+
